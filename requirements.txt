@@ -1,0 +1,6 @@
+pandas
+scikit-learn==1.5.0
+feature-engine
+flask
+flask-wtf
+gunicorn
